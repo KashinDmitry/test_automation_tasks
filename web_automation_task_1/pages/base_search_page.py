@@ -1,4 +1,4 @@
-from .locators import BaseSearchPageLocators
+from web_automation_task_1.locators import BaseSearchPageLocators
 
 
 class BaseSearchPage():

@@ -1,5 +1,5 @@
-from .base_search_page import BaseSearchPage
-from .search_result_page import SearchResultPage
+from web_automation_task_1.pages.base_search_page import BaseSearchPage
+from web_automation_task_1.pages.search_result_page import SearchResultPage
 
 
 class TestSearchResultPage():

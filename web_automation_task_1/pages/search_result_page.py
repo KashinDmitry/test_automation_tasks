@@ -1,5 +1,5 @@
-from .base_search_page import BaseSearchPage
-from .locators import SearchResultPageLocators
+from web_automation_task_1.pages.base_search_page import BaseSearchPage
+from web_automation_task_1.locators import SearchResultPageLocators
 
 
 class SearchResultPage(BaseSearchPage):
